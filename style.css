@@ -31,3 +31,8 @@ h3{
 body{
     background-color: #EEE3B0;
 }
+
+header img{
+    width: 100px;
+    height: auto;
+}
