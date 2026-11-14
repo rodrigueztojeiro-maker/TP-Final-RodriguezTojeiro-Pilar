@@ -1,3 +1,27 @@
 nav a{
 display:block;
 }
+
+footer{
+    background-color: hsl(49, 60%, 62%);
+}
+
+p{
+    color: #290044;
+}
+
+h1{
+    color: #500071;
+}
+
+h2{
+color: #8A2A78;
+}
+
+h3{
+    color: #8A2A78;
+}
+
+body{
+    color: #EEE3B0;
+}
