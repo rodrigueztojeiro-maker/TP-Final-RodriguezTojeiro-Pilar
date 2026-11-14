@@ -1,5 +1,11 @@
 nav a{
 display:block;
+background-color: #500071;
+color: #FFFFFF;
+padding: 10px;
+margin: 5px;
+border-radius: 8px;
+text-decoration: none;
 }
 
 footer{
